@@ -1,3 +1,4 @@
 ## Deep Learning Regression-Model-with-Keras
 
-This is a regression model in Keras done for the Coursera course: Introduction to Deep Learning and Neural Networks with Keras
++ Regression model in Keras
++ Assignment from Coursera course: Introduction to Deep Learning and Neural Networks with Keras
